@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductReviewSentimentAnalysis", "ProductReviewSentimentAnalysis\ProductReviewSentimentAnalysis.csproj", "{6192E334-50FB-45CD-85C9-B38350C6554C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6192E334-50FB-45CD-85C9-B38350C6554C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6192E334-50FB-45CD-85C9-B38350C6554C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6192E334-50FB-45CD-85C9-B38350C6554C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6192E334-50FB-45CD-85C9-B38350C6554C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EE8899C-D3CE-4D72-BB6D-11E3C4FF0E15}
+	EndGlobalSection
+EndGlobal
